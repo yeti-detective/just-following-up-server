@@ -1,0 +1,27 @@
+{
+  "name": "just-following-up-server",
+  "version": "0.0.1",
+  "description": "serving invoices to freelances",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "invoices",
+    "freelancers",
+    "motomorphosis",
+    "industries"
+  ],
+  "author": "Christopher Brown (yeti_detective)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.15.5",
+    "file-system": "^2.2.2",
+    "jsonwebtoken": "^8.0.1",
+    "mongod": "^2.0.0",
+    "mongodb": "^2.2.31",
+    "path": "^0.12.7"
+  }
+}
